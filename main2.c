@@ -74,10 +74,10 @@ int main(int argc, char const *argv[])
     // printf("%d\n",strcmp(str1,str2));
 
     // structures
-    struct books b1, b2;
-    strcpy(b1.name, "c progrmming");
-    strcpy(b1.author, "denis ritchie");
-    b1.price = 98;
-    printStruct(b1);
+    // struct books b1, b2;
+    // strcpy(b1.name, "c progrmming");
+    // strcpy(b1.author, "denis ritchie");
+    // b1.price = 98;
+    // printStruct(b1);
     return 0;
 }
